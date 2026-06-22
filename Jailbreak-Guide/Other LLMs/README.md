@@ -20,7 +20,7 @@ Alternatives to the "Big 4" (ChatGPT, Claude, Gemini, Grok) with varying capabil
 | **[GLM by Z.ai](GLM/)** | Zhipu AI | [★★★★☆☆☆☆☆☆] 4/10 | 9/10 | 200K | Free / $0.80/1M in | MIT | 5 |
 | **[IGENIUS / Colosseum](IGENIUS/)** | iGenius + NVIDIA | [★★★☆☆☆☆☆☆☆] 3/10 | 7/10 | Unknown | Free tier | Proprietary | 1 |
 | **[Indus](Indus%20by%20Sarvam%20AI/)** | Sarvam AI | [★★☆☆☆☆☆☆☆☆] 2/10 | 7/10 | 32-128K | Free | Open source | 1 |
-| **[KIMI](KIMI/)** | Moonshot AI | [★★★☆☆☆☆☆☆☆] 3/10 | 8/10 | 256K | Free / $0.60/1M in | Modified MIT | 3 |
+| **[KIMI](KIMI/)** | Moonshot AI | [★★★☆☆☆☆☆☆☆] 3/10 | 8/10 | 256K | Free / $0.60/1M in | Modified MIT | 4 |
 | **[LLAMA Tülu 3](LLAMA%20T%C3%9CLU%203/)** | Allen AI (Ai2) | [★☆☆☆☆☆☆☆☆☆] 1/10 | 6-8/10 | 128K | Free | Apache 2.0 | 1 |
 | **[Longcat AI](Longcat%20AI%20by%20Meituan/)** | Meituan | [★★☆☆☆☆☆☆☆☆] 2/10 | 8/10 | 128K | Free / $0.70/1M out | MIT | 1 |
 | **[Mercury](Mercury/)** | Inception Labs | [★★★★★★☆☆☆☆] 6/10 (v2) / [★★☆☆☆☆☆☆☆☆] 2/10 (v1) | 7/10 | 128K | $0.25/1M in | Proprietary | 2 |
@@ -80,7 +80,7 @@ Models ranked by intelligence and benchmark results:
 - **DeepSeek** — 8/10 (V4-Pro: SWE-Bench 80.6%, LiveCodeBench 93.5%, Codeforces 3206; R1-0528: 87.5% AIME 2025)
 - **ERNIE 5.0** — 8/10 (ranked 8th globally on LMArena, 1st Chinese model)
 - **EXAONE / K-EXAONE** — 8/10 (K-EXAONE: 7th on Artificial Analysis Intelligence Index)
-- **KIMI** — 8/10 (K2.5: 50.2% HLE, outperforms GPT-5.2 Pro on BrowseComp)
+- **KIMI** — 8/10 (K2.7 Code: 81.1% MCPMark, K2.5: 50.2% HLE)
 - **Longcat AI** — 8/10 (Thinking-2601: perfect 100 on AIME-25, SOTA agentic)
 - **MiniMax** — 8/10 (M2.5: 80.2% SWE-Bench Verified)
 - **LLAMA Tülu 3** — 8/10 for 405B (surpasses DeepSeek V3 and GPT-4o)
