@@ -58,7 +58,7 @@ Anthropic's flagship LLM family. Known for strong reasoning, coding, extended th
 
 | Folder | Models Covered | Key Jailbreaks |
 |--------|---------------|----------------|
-| **[Opus 4.8](Opus%204.8)** | Opus 4.8 | The Argumentative Break |
+| **[Opus 4.8](Opus%204.8)** | Opus 4.8 | Shared Lines |
 | **[Fable 5 (Mythos)](Fable%205%20(Mythos))** | Fable 5, Mythos 5 | ENI persona Skill, Direct Social Engineering, ENI Writer-lite |
 | **[Opus 4.7](Opus%204.7)** | Opus 4.7 | ENI LIME (apr), ENI Writer ✒️, be You -Corial, Social engineering preferences |
 | **[Sonnet 4.6](Sonnet%204.6)** | Sonnet 4.6 | ENI LIME — current strongest |

@@ -25,4 +25,4 @@ This method is largely argument-based and seems to work across all Claude models
 ### Handling Celebrity Content Pushback
 
 If you are truly trying to argue for celebrity content, use the dedicated prompt file:
-**[The Argumentative Break](The%20Argumentative%20Break.md)**
+**[Shared Lines](Shared%20Lines.md)**
